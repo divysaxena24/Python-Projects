@@ -1,5 +1,5 @@
 # Smart ID & Credential Validator
-# Course: CSE205 | Day-2 Challenge
+# Day-2 Challenge
 
 # INPUTS
 student_id = input().strip()
