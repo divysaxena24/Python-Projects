@@ -44,4 +44,11 @@ Each project is implemented using simple and clear Python code, following standa
   - If `PLI == 1`: All **High Demand** requests are removed.
   - If `PLI == 2`: Both **Low** and **High Demand** requests are removed (keeping only Moderate).
 
+### Day 6: Transaction Risk Categorizer
+- **Focus**: Data categorization and risk assessment.
+- **Features**: 
+  - Categorizes transactions into Normal, Large, High Risk, and Invalid based on their amounts.
+  - Calculates total value and number of valid transactions.
+  - Determines a final risk level (Low, Moderate, High Risk) based on the total high-risk transaction count and overall transaction value.
+
 ---
