@@ -51,4 +51,12 @@ Each project is implemented using simple and clear Python code, following standa
   - Calculates total value and number of valid transactions.
   - Determines a final risk level (Low, Moderate, High Risk) based on the total high-risk transaction count and overall transaction value.
 
+### Day 8: Student Performance Analytics
+- **Focus**: Data analysis using Pandas, NumPy, and Math.
+- **Features**: 
+  - **Data Generation**: Creates a dataset of students with marks, attendance, and assignment scores.
+  - **Metrics Calculation**: Computes average scores and a custom **Performance Index** using vectorized NumPy operations.
+  - **Classification**: Categorizes students into Top Performer, Good, and Average based on their overall average.
+  - **Statistical Insights**: Extracts mean marks, peak performance values, and logarithmic distributions of scores.
+
 ---
