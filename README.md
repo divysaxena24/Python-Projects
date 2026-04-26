@@ -59,4 +59,21 @@ Each project is implemented using simple and clear Python code, following standa
   - **Classification**: Categorizes students into Top Performer, Good, and Average based on their overall average.
   - **Statistical Insights**: Extracts mean marks, peak performance values, and logarithmic distributions of scores.
 
+### Day 9: Electronics Store Inventory Copy Behavior
+- **Focus**: Shallow vs. Deep Copy mechanisms in memory management.
+- **Features**:
+  - Demonstrates how nested object references are shared in shallow copies.
+  - Implements a deep copy using the `copy` module for complete data isolation.
+  - Applies a personalized 10% discount and stock update logic based on register number modulo operations.
+  - Compares value integrity between original and modified copies.
+
+### Day 10: Academic Data Drift & Copy Behavior Analyzer
+- **Focus**: Advanced Data Analysis and mutation tracking using NumPy and Pandas.
+- **Features**:
+  - **Data Simulation**: Generates structured academic records for 12 students.
+  - **Mutation Tracking**: Applies a square-root-based mathematical transformation to marks and monitors "Data Drift."
+  - **Statistical Insights**: Computes mean, median, standard deviation, and Min-Max normalization using vectorized operations.
+  - **Classification**: Categorizes performance shifts (Stable, Minor, or Critical Drift) based on statistical thresholds.
+  - **Tabular Reporting**: Utilizes Pandas DataFrames for clear comparison between original, shallow, and deep-copied datasets.
+
 ---
